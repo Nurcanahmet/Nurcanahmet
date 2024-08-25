@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+![b65ee69d78c39c8aae397a70f2648307](https://github.com/user-attachments/assets/4d8b3e06-c323-4c8e-9ccb-71a70d790e5f)
+
+
 <!--
 **Nurcanahmet/Nurcanahmet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
