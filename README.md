@@ -1,6 +1,9 @@
 ## Hi there 👋
 
-My curiosity about technology led me to pursue a degree in computer engineering, and my interest continues to grow.
+My curiosity about technology led me to pursue a degree in computer engineering,
+and my interest continues to grow.
+![resize-17246194521169890252c3005870ec4338a05d5701ffca1248d1](https://github.com/user-attachments/assets/c62336ed-493b-4940-8b23-0aac8694ea03)
+
 
 
 
