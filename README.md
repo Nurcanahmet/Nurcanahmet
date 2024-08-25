@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![b65ee69d78c39c8aae397a70f2648307](https://github.com/user-attachments/assets/4d8b3e06-c323-4c8e-9ccb-71a70d790e5f)
+![resize-1724618682193167952424a2e667a8986245397880e137710453](https://github.com/user-attachments/assets/67b5bd4a-d58c-49c6-bba4-60650cde3a10)
 
 
 <!--
