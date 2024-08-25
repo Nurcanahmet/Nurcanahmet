@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-![resize-1724618682193167952424a2e667a8986245397880e137710453](https://github.com/user-attachments/assets/67b5bd4a-d58c-49c6-bba4-60650cde3a10)
+My curiosity about technology led me to pursue a degree in computer engineering, and my interest continues to grow.
+
 
 
 <!--
