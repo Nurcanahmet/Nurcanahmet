@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nurcan</h1>
 <h3 align="center">A passionate computer engineering student from Turkey</h3>
 
-![b65ee69d78c39c8aae397a70f2648307](https://github.com/user-attachments/assets/9cb7f747-20b7-40fb-b310-53820ac1e562)
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nurcanahmet&label=Profile%20views&color=0e75b6&style=flat" alt="nurcanahmet" /> </p>
 
 🌱 I’m currently learning HTML&CSS and JAVASCRIPT
