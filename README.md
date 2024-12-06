@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nurcanahmet&label=Profile%20views&color=0e75b6&style=flat" alt="nurcanahmet" /> </p>
 
-🌱 I’m currently learning to become a frontend developer.
 
 📫 How to reach me **norcanahmed@gmail.com**
 
